@@ -1,2 +1,2 @@
 # ins3064
-This repo is for studying with Laragon
+This repo is a playground using Laragon
